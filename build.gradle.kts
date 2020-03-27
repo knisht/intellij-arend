@@ -23,6 +23,7 @@ repositories {
 dependencies {
     implementation("org.arend:api")
     implementation("org.arend:base")
+    implementation("org.arend:proto")
     compileOnly(kotlin("stdlib-jdk8"))
 }
 
